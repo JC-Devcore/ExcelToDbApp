@@ -1,0 +1,12 @@
+D:\Software Development\C#\Workspace\ExcelToDbApp\ExcelToDbApplication\ExcelToDbApplication\bin\Debug\ExcelToDbApplication.exe.config
+D:\Software Development\C#\Workspace\ExcelToDbApp\ExcelToDbApplication\ExcelToDbApplication\bin\Debug\ExcelToDbApplication.exe
+D:\Software Development\C#\Workspace\ExcelToDbApp\ExcelToDbApplication\ExcelToDbApplication\bin\Debug\ExcelToDbApplication.pdb
+D:\Software Development\C#\Workspace\ExcelToDbApp\ExcelToDbApplication\ExcelToDbApplication\obj\Debug\ExcelToDbApplication.ExcelToDatabase.resources
+D:\Software Development\C#\Workspace\ExcelToDbApp\ExcelToDbApplication\ExcelToDbApplication\obj\Debug\ExcelToDbApplication.Main.resources
+D:\Software Development\C#\Workspace\ExcelToDbApp\ExcelToDbApplication\ExcelToDbApplication\obj\Debug\ExcelToDbApplication.Properties.Resources.resources
+D:\Software Development\C#\Workspace\ExcelToDbApp\ExcelToDbApplication\ExcelToDbApplication\obj\Debug\ExcelToDbApplication.csproj.GenerateResource.cache
+D:\Software Development\C#\Workspace\ExcelToDbApp\ExcelToDbApplication\ExcelToDbApplication\obj\Debug\ExcelToDbApplication.csproj.CoreCompileInputs.cache
+D:\Software Development\C#\Workspace\ExcelToDbApp\ExcelToDbApplication\ExcelToDbApplication\obj\Debug\ExcelToDbApplication.exe
+D:\Software Development\C#\Workspace\ExcelToDbApp\ExcelToDbApplication\ExcelToDbApplication\obj\Debug\ExcelToDbApplication.pdb
+D:\Software Development\C#\Workspace\ExcelToDbApp\ExcelToDbApplication\ExcelToDbApplication\obj\Debug\ExcelToDbApplication.DatabaseSetting.resources
+D:\Software Development\C#\Workspace\ExcelToDbApp\ExcelToDbApplication\ExcelToDbApplication\obj\Debug\ExcelToDbApplication.csproj.ResolveComReference.cache
